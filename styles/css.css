@@ -1,0 +1,16 @@
+.fild{
+    display: flex;
+    width: auto;
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.fild-block{
+    margin-top: 5px;
+    width: 23%;
+    height: 100px;
+    background-color: gray;
+    border: 1px solid black;
+}
